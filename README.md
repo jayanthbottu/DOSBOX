@@ -16,7 +16,7 @@
       Extract 8086-Assembler.zip
     </li>
     <li class="step">
-      <img class="step-image" src="copy.png" alt="Copy Icon">
+      <img class="step-image" src="https://cdn.pixabay.com/photo/2012/04/16/13/10/document-35941_1280.png" alt="Copy Icon" height=15>
       Copy Extracted 8086 Folder into DOSBOX Folder in Program Files
     </li>
   </ul>
