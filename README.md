@@ -12,7 +12,7 @@
       Install DOSBox v0.74 32bit.exe from the repo
     </li>
     <li class="step">
-      <img class="step-image" src="unzip.png" alt="Unzip Icon">
+      <img class="step-image" src="https://lh3.googleusercontent.com/eVQcNGH3ydrVOr6T1N4vdVa3QXtCxb3Mgp6Lt3p0wrN63GM4FFgGOgu-pBIZA4r8R2c" alt="Unzip Icon" height=15>
       Extract 8086-Assembler.zip
     </li>
     <li class="step">
