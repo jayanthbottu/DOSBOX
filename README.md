@@ -8,7 +8,7 @@
   <h1>Installation Steps</h1>
   <ul>
     <li class="step">
-      <img class="step-image" src="install.png" alt="Install Icon">
+      <img class="step-image" src="[install.png](https://www.pngall.com/wp-content/uploads/11/Install-PNG.png)" alt="Install Icon">
       Install DOSBox v0.74 32bit.exe from the repo
     </li>
     <li class="step">
